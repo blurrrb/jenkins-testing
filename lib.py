@@ -1,5 +1,5 @@
 def power(x, y, p) : 
-    res = 1 
+    res = 2
     x = x % p  
   
     while (y > 0) : 
